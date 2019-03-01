@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "postId": 1,
+      "postTime": "28/1/2019 14:35",
+      "postContent": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati.",
+      "postAuthor": {
+        "name": "João Carlos Ferreira",
+        "avatar": "https://dummyimage.com/60x60/333/fff"
+      }
+    },
+    {
+      "postId": 2,
+      "postTime": "29/1/2019 11:23",
+      "postContent": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati.",
+      "postAuthor": {
+        "name": "Paulo de Tarso",
+        "avatar": "https://dummyimage.com/60x60/333/fff"
+      }
+    },
+    {
+      "postId": 3,
+      "postTime": "02/2/2019 01:44",
+      "postContent": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati.",
+      "postAuthor": {
+        "name": "Tulio Sem Sono",
+        "avatar": "https://dummyimage.com/60x60/333/fff"
+      }
+    }
+  ]
+}
